@@ -1,10 +1,19 @@
-# Testing React Apps
+# Test-store
 
-This is the starter project for my Reacting testing course where you'll learn everything you need to know to effectively test React apps. You can find the full course at: 
+This is a practice project for testing React with Vitest from [Mosh Hamedani](https://codewithmosh.com )
 
-https://codewithmosh.com 
+This app is to practice testing react/TS, so the db is json, and the API is mocked.
 
 ## About this Project 
+This projects shows how to test a few common features and patterns: 
+- Dropdown selector (language selector)
+- Add products to shopping cart updates number of items in cart
+- Admin area protected by auth0
+   - Add/edit product
+   - Form validation 
+   - Category
+   - Toast notifications
+   - Redirection to home page
 
 This is a React app built with the following technologies and libraries: 
 
@@ -15,7 +24,12 @@ This is a React app built with the following technologies and libraries:
 - React Query  
 - Redux Toolkit 
 
-Please follow these instructions carefully to setup this project on your machine. 
+To setup this project on your machine:
+## Clone the repo
+
+`git clone TBD`
+or clone Mosh's original to do his project yourself: 
+`git clone https://github.com/mosh-hamedani/react-testing-starter.git`
 
 ## Setting up Auth0 for Authentication
 
