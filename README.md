@@ -6,14 +6,15 @@ This app is to practice testing react/TS, so the db is json, and the API is mock
 
 ## About this Project 
 This projects shows how to test a few common features and patterns: 
-- Dropdown selector (language selector)
-- Add products to shopping cart updates number of items in cart
+- Accepting Terms & Conditions
+<!-- - Dropdown selector (language selector) -->
+<!-- - Add products to shopping cart updates number of items in cart -->
 - Admin area protected by auth0
-   - Add/edit product
+   <!-- - Add/edit product
    - Form validation 
    - Category
    - Toast notifications
-   - Redirection to home page
+   - Redirection to home page -->
 
 This is a React app built with the following technologies and libraries: 
 
