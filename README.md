@@ -1,8 +1,10 @@
 # Test-store
 
-This is a practice project for testing React with Vitest from [Mosh Hamedani](https://codewithmosh.com )
+This is a practice project for testing React with Vitest from [Mosh Hamedani](https://codewithmosh.com)
 
 This app is to practice testing react/TS, so the db is json, and the API is mocked.
+
+NOTE: I just did the first part that is on [youtube](https://www.youtube.com/watch?v=8Xwq35cPwYg) as a refresher. 
 
 ## About this Project 
 This projects shows how to test a few common features and patterns: 
@@ -16,6 +18,7 @@ This projects shows how to test a few common features and patterns:
    - Toast notifications
    - Redirection to home page -->
 
+
 This is a React app built with the following technologies and libraries: 
 
 - Auth0 
@@ -25,12 +28,15 @@ This is a React app built with the following technologies and libraries:
 - React Query  
 - Redux Toolkit 
 
+
 To setup this project on your machine:
 ## Clone the repo
 
-`git clone TBD`
+```git clone git@github.com:laurieroy/RTL-vitest-store```
+
 or clone Mosh's original to do his project yourself: 
-`git clone https://github.com/mosh-hamedani/react-testing-starter.git`
+
+```git clone https://github.com/mosh-hamedani/react-testing-starter.git```
 
 ## Setting up Auth0 for Authentication
 
